@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anna Nogueira
-- 🌱 I’m currently learning PHP, CSS, HTML,
+- 🌱 I’m currently learning PHP, CSS, HTML, Python
 - 📫 How to reach me: Social Medias and my email: ajznogueira@gmail.com
 
 <!---
