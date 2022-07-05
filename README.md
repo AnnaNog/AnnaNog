@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anna Nogueira</h1>
-<h3 align="center">A passionate frontend developer from Brazil</h3>
+<h3 align="center">A passionate developer from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=annanog&label=Profile%20views&color=0e75b6&style=flat" alt="annanog" /> </p>
 
@@ -10,8 +10,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/anna__nogueira_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anna__nogueira_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/anna-nogueira-1983b7238/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anna-nogueira-1983b7238/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/anna_nogueiraa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/anna_nogueiraa/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/anna-nogueira-1983b7238" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anna-nogueira-1983b7238" height="30" width="40" /></a>
+<a href="https://instagram.com/anna__nogueira_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anna__nogueira_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
