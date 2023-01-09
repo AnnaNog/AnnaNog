@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=annanog&label=Profile%20views&color=0e75b6&style=flat" alt="annanog" /> </p>
 
-- 🌱 I’m currently learning **PHP, CSS, HTML, Phyton**
+- 🌱 I’m currently learning **PHP, CSS, HTML, Phyton, Java**
 
 - 📫 How to reach me **ajznogueira@gmail.com**
 
